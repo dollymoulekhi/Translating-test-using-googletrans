@@ -1,4 +1,4 @@
-# Translating-test-using-googletrans
+# Translating-text-using-googletrans
 
 ## Translating the text from other language to english
 
